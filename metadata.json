@@ -1,0 +1,8 @@
+{
+  "name": "Basaveshwar Hospital Nadi-Ingalgaon - Public Information & Community Connect",
+  "description": "Official public information portal and community connect platform for Basaveshwar Hospital, Nadi-Ingalgaon, Karnataka. Providing 24/7 emergency services, healthcare schemes, announcements, verified contacts, and location directions in Kannada and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
